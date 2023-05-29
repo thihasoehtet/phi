@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1856F61C-0085-4202-BB96-AEE0FC4B0A57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B3FB8CC6-9CA9-4139-B413-630F61119336}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phi.Web.UI", "src\Phi.Web.UI\Phi.Web.UI.csproj", "{13A6BD54-F868-43A1-8D0F-FB49928E027D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A6BD54-F868-43A1-8D0F-FB49928E027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A6BD54-F868-43A1-8D0F-FB49928E027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A6BD54-F868-43A1-8D0F-FB49928E027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A6BD54-F868-43A1-8D0F-FB49928E027D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{13A6BD54-F868-43A1-8D0F-FB49928E027D} = {1856F61C-0085-4202-BB96-AEE0FC4B0A57}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19C2258-6CB6-4284-895D-8D51E8030469}
+	EndGlobalSection
+EndGlobal
